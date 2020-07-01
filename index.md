@@ -11,16 +11,16 @@
 
 ### 专业能力
 
-1.熟悉 JAVA 语言；
-2.了解数据结构与算法；
-3.了解 JVM 虚拟机；
-4.了解网络编程；
-5.熟悉 Visual Studio Code 、 Eclipse 编译器；
-6.了解分布式系统；
-7.了解 Mysql 等 sql 语言；
-8.了解 NPM 、 Homebrew 等包管理
-9.了解基本的 Linux 知识，能使用 Linux 作为日常开发环境；
-10.了解面向对象的概念和设计模式；
+1. 熟悉 JAVA 语言；
+2. 了解数据结构与算法；
+3. 了解 JVM 虚拟机；
+4. 了解网络编程；
+5. 熟悉 Visual Studio Code 、 Eclipse 编译器；
+6. 了解分布式系统；
+7. 了解 Mysql 等 sql 语言；
+8. 了解 NPM 、 Homebrew 等包管理
+9. 了解基本的 Linux 知识，能使用 Linux 作为日常开发环境；
+10. 了解面向对象的概念和设计模式；
 
 ```markdown
 Syntax highlighted code block
